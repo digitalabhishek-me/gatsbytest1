@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Wooden Craft	</title>
+	<atom:link href="https://softwaremechanics.net/product/wooden-craft/feed" rel="self" type="application/rss+xml" />
+	<link>https://softwaremechanics.net/product/wooden-craft</link>
+	<description>Simple, Subtle, Sorted </description>
+	<lastBuildDate>Sat, 18 Apr 2020 19:27:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		By: Grace Williams		</title>
+		<link>https://softwaremechanics.net/product/wooden-craft#comment-21</link>
+
+		<dc:creator><![CDATA[Grace Williams]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2017 09:24:55 +0000</pubDate>
+		<guid isPermaLink="false">http://pxlz.edge-themes.com/?post_type=product&#038;p=1498#comment-21</guid>
+
+					<description><![CDATA[Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.]]></description>
+			<content:encoded><![CDATA[<p>Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jessie Smith		</title>
+		<link>https://softwaremechanics.net/product/wooden-craft#comment-20</link>
+
+		<dc:creator><![CDATA[Jessie Smith]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2017 09:22:57 +0000</pubDate>
+		<guid isPermaLink="false">http://pxlz.edge-themes.com/?post_type=product&#038;p=1498#comment-20</guid>
+
+					<description><![CDATA[Maecenas tempus, tellus eget condimentum rhoncus?]]></description>
+			<content:encoded><![CDATA[<p>Maecenas tempus, tellus eget condimentum rhoncus?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

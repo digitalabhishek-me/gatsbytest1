@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Combined Blouse	</title>
+	<atom:link href="https://softwaremechanics.net/product/fashion-05/feed" rel="self" type="application/rss+xml" />
+	<link>https://softwaremechanics.net/product/fashion-05</link>
+	<description>Simple, Subtle, Sorted </description>
+	<lastBuildDate>Sat, 18 Apr 2020 19:27:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		By: Grace Williams		</title>
+		<link>https://softwaremechanics.net/product/fashion-05#comment-45</link>
+
+		<dc:creator><![CDATA[Grace Williams]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2017 09:38:50 +0000</pubDate>
+		<guid isPermaLink="false">http://pxlz.edge-themes.com/?post_type=product&#038;p=1878#comment-45</guid>
+
+					<description><![CDATA[Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
+Maecenas tempus, tellus eget condimentum rhoncus?]]></description>
+			<content:encoded><![CDATA[<p>Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.<br />
+Maecenas tempus, tellus eget condimentum rhoncus?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

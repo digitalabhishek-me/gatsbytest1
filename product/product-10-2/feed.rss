@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Grey book	</title>
+	<atom:link href="https://softwaremechanics.net/product/product-10-2/feed" rel="self" type="application/rss+xml" />
+	<link>https://softwaremechanics.net/product/product-10-2</link>
+	<description>Simple, Subtle, Sorted </description>
+	<lastBuildDate>Sat, 18 Apr 2020 19:27:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		By: Grace Williams		</title>
+		<link>https://softwaremechanics.net/product/product-10-2#comment-42</link>
+
+		<dc:creator><![CDATA[Grace Williams]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2017 09:36:53 +0000</pubDate>
+		<guid isPermaLink="false">http://pxlz.edge-themes.com/?post_type=product&#038;p=1792#comment-42</guid>
+
+					<description><![CDATA[Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.]]></description>
+			<content:encoded><![CDATA[<p>Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

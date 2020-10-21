@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Digital &#8211; Software Mechanics</title>
+	<atom:link href="https://softwaremechanics.net/product-tag/digital/feed" rel="self" type="application/rss+xml" />
+	<link>https://softwaremechanics.net</link>
+	<description>Simple, Subtle, Sorted </description>
+	<lastBuildDate>Sat, 18 Apr 2020 19:27:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://softwaremechanics.net/wp-content/uploads/2020/04/cropped-onlinelogomaker-042220-0127-2380-100x100.png</url>
+	<title>Digital &#8211; Software Mechanics</title>
+	<link>https://softwaremechanics.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Modern Watch</title>
+		<link>https://softwaremechanics.net/product/modern-watch</link>
+					<comments>https://softwaremechanics.net/product/modern-watch#comments</comments>
+		
+		<dc:creator><![CDATA[Abhishek]]></dc:creator>
+		<pubDate>Mon, 06 Nov 2017 08:33:42 +0000</pubDate>
+				<guid isPermaLink="false">http://pxlz.edge-themes.com/?post_type=product&#038;p=1451</guid>
+
+					<description><![CDATA[Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur vixis ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. ]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.Sed fringilla mauris sit amet nibh.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://softwaremechanics.net/product/modern-watch/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
